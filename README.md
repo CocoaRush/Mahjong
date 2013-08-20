@@ -1,7 +1,14 @@
 Mahjong
 =======
 
-A Mahjong solution try to find every possible way to win for a given patten of tile (13 in h hand)
+A Mahjong solution try to find every possible way to win for a given patten of tile (13 in total) in hand.
+
+Basic winning rules:
+
+1. thirteen 1
+2. seven pairs
+3. one pair as eye with 4 combinations of any kind 
+
 
 ## A 'dragon-like' tile pattern
 
