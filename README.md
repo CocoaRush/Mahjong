@@ -3,10 +3,11 @@ Mahjong
 
 A Mahjong solution try to find every possible way to win for a given patten of tile (13 in h hand)
 
-## Example out put of a 'dragon-like' pattern tile in hand
+## A 'dragon-like' tile pattern
 
 Tile in hand:   **1W  1W  1W  2W  3W  4W  5W  6W  7W  8W  9W  9W  9W**
 
+out put:
 
 ```
 combination:  1W  1W  1W 
